@@ -53,6 +53,7 @@ def initGame():
     pygame.init()
     window = pygame.display.set_mode(size=(WINDOW_WIDTH, WINDOW_HEIGHT))
     pygame.display.set_caption('Flying Game')
+
     aircraft = pygame.image.load('./img/airplane2.png')
     aircraft = pygame.transform.scale(aircraft, (120, 80))
 
