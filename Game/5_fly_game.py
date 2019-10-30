@@ -71,7 +71,7 @@ def runGame():
         if y < 0:
             y = 0
         elif y > WINDOW_HEIGHT - AIRCRAFT_HEIGHT:
-            y = WINDOW_WIDTH - AIRCRAFT_WIDTH
+            y = WINDOW_HEIGHT - AIRCRAFT_HEIGHT
 
         drawObject(aircraft, x, y)
         #
