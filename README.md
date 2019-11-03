@@ -31,9 +31,9 @@
 
 - Crawling 알기
   + 참조 자료 : 
-  [https://github.com/tzuhsial/InstagramCrawler](https://github.com/tzuhsial/InstagramCrawler)
-  [https://github.com/huaying/instagram-crawler](https://github.com/huaying/instagram-crawler)
-  [https://github.com/timgrossmann/instagram-profilecrawl](https://github.com/timgrossmann/instagram-profilecrawl) ✔️
+    + [https://github.com/tzuhsial/InstagramCrawler](https://github.com/tzuhsial/InstagramCrawler)
+    + [https://github.com/huaying/instagram-crawler](https://github.com/huaying/instagram-crawler)
+    + [https://github.com/timgrossmann/instagram-profilecrawl](https://github.com/timgrossmann/instagram-profilecrawl) ✔️
 
 ## 3 week
 - 코드 분석
