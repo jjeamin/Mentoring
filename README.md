@@ -30,6 +30,13 @@
   + 배경음악 추가하기
 
 - Crawling 알기
+  + 참조 자료 : 
+  [https://github.com/tzuhsial/InstagramCrawler](https://github.com/tzuhsial/InstagramCrawler)
+  [https://github.com/huaying/instagram-crawler](https://github.com/huaying/instagram-crawler)
+  [https://github.com/timgrossmann/instagram-profilecrawl](https://github.com/timgrossmann/instagram-profilecrawl) ✔️
+
+## 3 week
+- 코드 분석
 
 # GitHub 
 - Student 1 : [https://github.com/morris1115/repo](https://github.com/morris1115/repo)
