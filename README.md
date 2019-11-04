@@ -25,22 +25,21 @@
 
 ## 2 week
 - Game 만들기
-  + 적 해치우기(점수)
-  + 적이 공격
-  + 배경음악 추가하기
-
-- Crawling 알기
-  + 참조 자료 : 
-    + [https://github.com/tzuhsial/InstagramCrawler](https://github.com/tzuhsial/InstagramCrawler)
-    + [https://github.com/huaying/instagram-crawler](https://github.com/huaying/instagram-crawler)
-    + [https://github.com/timgrossmann/instagram-profilecrawl](https://github.com/timgrossmann/instagram-profilecrawl) ✔️
+  + 적 해치우기(점수) ✔️
+  + 적이 공격 ✔️
+  + 배경음악 추가하기 ✔️
+  + 마무리 작업하기
+  
+- Crawling
+  + Crawring 이란??
+  + 오픈소스 instagram crawler 실행해보기
+  + selenium 배우기
 
 ## 3 week
-- 코드 분석
 
 # GitHub 
-- Student 1 : [https://github.com/morris1115/repo](https://github.com/morris1115/repo)
-- Student 2 : [https://github.com/y00-git/mentor](https://github.com/y00-git/mentor)
-- Student 3 : [https://github.com/KIMDOKYOUNG/python](https://github.com/KIMDOKYOUNG/python)
-- Student 4 : [https://github.com/wjdwndud0203/trinity_47](https://github.com/wjdwndud0203/trinity_47)
-- Student 5 : []()
+- Student 1 : [https://github.com/morris1115/](https://github.com/morris1115/)
+- Student 2 : [https://github.com/y00-git/](https://github.com/y00-git/)
+- Student 3 : [https://github.com/KIMDOKYOUNG/](https://github.com/KIMDOKYOUNG/)
+- Student 4 : [https://github.com/wjdwndud0203/](https://github.com/wjdwndud0203/)
+- Student 5 : [https://github.com/eunsu322](https://github.com/eunsu322)
