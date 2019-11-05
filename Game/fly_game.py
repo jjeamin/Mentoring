@@ -3,9 +3,11 @@ import pygame
 import random
 from time import sleep
 
+# COLOR
 WHITE = (255, 255, 255)
 RED = (255,0,0)
 
+# objecct WIDTH HEIGHT
 WINDOW_WIDTH = 1024
 WINDOW_HEIGHT = 512
 AIRCRAFT_WIDTH = 100
@@ -51,6 +53,7 @@ def runGame():
     global monster, fires, bullet, boom
     global shot_sound
 
+    # value init
     isShot = False
     boom_count = 0
     life = 5
@@ -165,7 +168,8 @@ def runGame():
                         bullet_xy.remove(bxy)
                     except:
                         pass
-        
+
+        # GAME RULE
         if x + AIRCRAFT_WIDTH > monster_x:
             if(y > monster_y and y < monster_y + MONSTER_HEIGHT) or \
             (y + AIRCRAFT_HEIGHT > monster_y) and y + AIRCRAFT_HEIGHT < monster_y + MONSTER_HEIGHT:
@@ -207,6 +211,7 @@ def runGame():
 
 
 def initGame():
+    # Init pygame object
     global window, aircraft, clock, background, background_next
     global monster, fires, bullet, boom
     global shot_sound, explosion_sound
