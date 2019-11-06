@@ -31,11 +31,20 @@
   + 마무리 작업하기 ✔️
   
 - Crawling
-  + Crawring 이란??
-  + 오픈소스 instagram crawler 실행해보기
-  + selenium 배우기
+  + Crawring 이란?? ✔️
+  + 오픈소스 instagram crawler 실행해보기 ✔️
+  + selenium 배우기 ✔️
 
 ## 3 week
+- Object Detection
+  + Object Detection 이란??
+  + 오픈소스 Car License Plate Object Detection 실행해보기
+  + 실행한 오픈소스 설명
+  
+- Object Detection2
+  + 오픈소스 Similar Fashion Detection 실행해보기
+  + 실행한 오픈소스 설명
+
 
 # GitHub 
 - Student 1 : [https://github.com/morris1115/](https://github.com/morris1115/)
