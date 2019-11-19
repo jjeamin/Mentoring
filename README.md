@@ -10,7 +10,7 @@
 
 - chapter 3 : python으로 간단한 자연어처리
 
-## 1 week 
+## chapter 1
 
 - 각자 프로젝트 주제 정하기 ✔️
 
@@ -22,27 +22,28 @@
   + 화면 생성 ✔️
   + 적 생성 ✔️
   + 총알 발사 ✔️
-
-## 2 week
-- Game 만들기
   + 적 해치우기(점수) ✔️
   + 적이 공격 ✔️
   + 배경음악 추가하기 ✔️
   + 마무리 작업하기 ✔️
-  
+
+
+## chapter 2
 - Crawling
   + Crawring 이란?? ✔️
   + 오픈소스 instagram crawler 실행해보기 ✔️
   + selenium 배우기 ✔️
 
-## 3 week
+## chapter 3
+- Deep Learning
+  + 딥러닝이란?? // 참조 : [https://github.com/jeonggunlee/OpenSourceKeras](https://github.com/jeonggunlee/OpenSourceKeras) ✔️
+  + keras를 이용해서 라이브코딩 ✔️
+  + 개, 고양이 분류하기 // 참조 : [https://www.tensorflow.org/tutorials/images/classification?hl=ko](https://www.tensorflow.org/tutorials/images/classification?hl=ko)
+
+## chapter 4
 - Object Detection
   + Object Detection 이란??
-  + 오픈소스 Car License Plate Object Detection 실행해보기
-  + 실행한 오픈소스 설명
-  
-- Object Detection2
-  + 오픈소스 Similar Fashion Detection 실행해보기
+  + 오픈소스 실행해보기
   + 실행한 오픈소스 설명
 
 
