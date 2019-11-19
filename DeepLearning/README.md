@@ -50,3 +50,4 @@ Graph라는 개념을 가지고 있고 Graph는 Node들로 구성되어져 있�
 
 # REFERENCE
 - [https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ko](https://www.tensorflow.org/tutorials/quickstart/beginner?hl=ko)
+- [https://github.com/jeonggunlee/OpenSourceKeras](https://github.com/jeonggunlee/OpenSourceKeras)
